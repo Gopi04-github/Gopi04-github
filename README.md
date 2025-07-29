@@ -2,8 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hi,%20I'm%20Gopinath%20R🚀&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
-
 ---
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Gopinath%20R%20🚀&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+</p>
 
 <p align="center">
   <b>🚀 Passionate about building intelligent, scalable systems.</b><br>
