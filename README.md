@@ -1,6 +1,7 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=F7F7F7&background=000000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gopinath+R;CSE+Student+%7C+Java+Developer;RPA+%2B+ML+%2B+Fullstack+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=F7F7F7&background=000000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gopinath+R;CSE+Student+%7C+Java+Developer;RPA+%2B+ML+%2B+Fullstack+Explorer" alt="Typing SVG" />
+
 </p>
 
 ---
@@ -62,7 +63,7 @@
 
 <p align="center">
   <a href="mailto:rajagokul231@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/GopinathR](https://www.linkedin.com/in/gopinath-r-ba9932257/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/GopinathR](https://www.linkedin.com/in/gopinath-r-ba9932257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Gopi04-github"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
