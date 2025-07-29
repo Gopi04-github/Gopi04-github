@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopinath R</h1>
-<h3 align="center">🚀 Passionate Developer | CSE Student | React • Java • ML • Flask</h3>
+<h3 align="center">🚀 Java Developer | ML & RPA Enthusiast | Full-Stack Explorer</h3>
 
 ---
 
@@ -8,37 +8,49 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final-year **Computer Science Engineering** student  
-- 💡 I love building end-to-end systems with strong UI, intelligent logic, and clean architecture  
-- 🌱 Currently learning **Spring Boot**, **System Design**, and **Cloud Deployment**  
-- 🧠 Passionate about **Machine Learning**, **IoT**, and **Modern Web Development**
+- 💻 I build end-to-end systems — from sleek frontends to robust backends  
+- 🧠 Strong in **DSA** – solved **100+ LeetCode** problems  
+- 🤖 Passionate about **Machine Learning**, **Automation**, and **Web Development**
+- ⚙️ Working knowledge of **RPA**, bots & browser automation  
+- ☁️ Exploring **Cloud (Azure)**, **CI/CD**, and **Scalable System Design**
 
 ---
 
 ### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+#### 💻 Languages:
+`Java` `C` `JavaScript` `TypeScript` `HTML` `CSS`
+
+#### ⚙️ Frameworks & Libraries:
+`React` `Angular` `React Native` `Spring Boot` `Flask (basic)`
+
+#### 💾 Databases:
+`MySQL` `MongoDB`
+
+#### ☁️ Cloud & Tools:
+`Azure` `Git` `Postman` `VSCode` `IntelliJ` `UiPath / RPA tools`
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Featured Projects
 
-- 🛒 **Product Management System**  
-  Full-stack app to manage products with CRUD operations, category filters & inventory tracking.
+- 🍽 **Restaurant Management System**  
+  Java + MySQL app to manage menu, orders, and billing for a restaurant.
 
-- 🔍 **Service Finder** *(React + Node)*  
-  A location-based platform where users can find services (like electricians, tutors, etc.) nearby.
+- 🛍 **Product Management System**  
+  Java CRUD app to handle product catalog and admin operations.
 
-- 🧑‍🏫 **Teacher Evaluation using ML**  
-  Machine learning model that evaluates teaching effectiveness based on student performance data.
+- 🧠 **Teacher Evaluation using Random Forest**  
+  Machine Learning model to predict and rate teaching effectiveness based on student data.
 
-- 🧾 **Ration Track** *(Python Flask)*  
-  A digital ration tracking system to monitor fair distribution and avoid leakages in public schemes.
+- 🔍 **Service Finder Web App** *(React)*  
+  Platform to locate nearby services like technicians or tutors.
+
+- 🧾 **Ration Track System**  
+  Simple Flask + Python app to monitor ration distribution processes.
+
+- 🤖 **RPA Price Scraper Bot**  
+  Automated bot to extract product price data from multiple e-commerce websites using **RPA tools**.
 
 ---
 
@@ -62,6 +74,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Gopi04-github)
 
 ---
+
+### 🧠 Highlights
+
+- 💡 Experienced with **end-to-end full stack development**
+- 🤖 Built **bots and automations** using **RPA** tools for web scraping
+- 📈 Strong base in **DSA**, **OOP**, **DBMS**, and **System Design**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gopi04-github&style=flat-square&color=blue" alt="Profile views" />
