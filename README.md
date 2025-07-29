@@ -1,86 +1,73 @@
-<h1 align="center">Hi 👋, I'm Gopinath R</h1>
-<h3 align="center">🚀 Java Developer | ML & RPA Enthusiast | Full-Stack Explorer</h3>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=F7F7F7&background=000000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gopinath+R;CSE+Student+%7C+Java+Developer;RPA+%2B+ML+%2B+Fullstack+Explorer" alt="Typing SVG" />
+</p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKP7D1I2UU3QZyQ/giphy.gif" width="200" alt="coder" />
+</p>
+
+<p align="center">
+  <b>🚀 Passionate about building intelligent, scalable systems.</b><br>
+  <b>💡 Java | React | Spring | ML | RPA | Cloud</b><br>
+  <b>🧠 Strong in DSA | LeetCode 100+ | Project-Driven Learner</b>
+</p>
+
+---
 
 ### 👨‍💻 About Me
-
-- 🎓 Final-year **Computer Science Engineering** student  
-- 💻 I build end-to-end systems — from sleek frontends to robust backends  
-- 🧠 Strong in **DSA** – solved **100+ LeetCode** problems  
-- 🤖 Passionate about **Machine Learning**, **Automation**, and **Web Development**
-- ⚙️ Working knowledge of **RPA**, bots & browser automation  
-- ☁️ Exploring **Cloud (Azure)**, **CI/CD**, and **Scalable System Design**
+- 🎓 Final-year **CSE student**
+- 💻 Skilled in **Java**, **Spring Boot**, **MongoDB**, **React**, **Angular**, and **Azure**
+- 🧠 Created ML apps like **Teacher Evaluation** using **Random Forest**
+- 🤖 Built RPA bots for **automated price scraping**
+- 📈 Solved **100+ LeetCode problems**, solid DSA & analytical mindset
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 💻 Languages:
-`Java` `C` `JavaScript` `TypeScript` `HTML` `CSS`
-
-#### ⚙️ Frameworks & Libraries:
-`React` `Angular` `React Native` `Spring Boot` `Flask (basic)`
-
-#### 💾 Databases:
-`MySQL` `MongoDB`
-
-#### ☁️ Cloud & Tools:
-`Azure` `Git` `Postman` `VSCode` `IntelliJ` `UiPath / RPA tools`
-
----
-
-### 🚀 Featured Projects
-
-- 🍽 **Restaurant Management System**  
-  Java + MySQL app to manage menu, orders, and billing for a restaurant.
-
-- 🛍 **Product Management System**  
-  Java CRUD app to handle product catalog and admin operations.
-
-- 🧠 **Teacher Evaluation using Random Forest**  
-  Machine Learning model to predict and rate teaching effectiveness based on student data.
-
-- 🔍 **Service Finder Web App** *(React)*  
-  Platform to locate nearby services like technicians or tutors.
-
-- 🧾 **Ration Track System**  
-  Simple Flask + Python app to monitor ration distribution processes.
-
-- 🤖 **RPA Price Scraper Bot**  
-  Automated bot to extract product price data from multiple e-commerce websites using **RPA tools**.
-
----
-
-### 📊 GitHub Stats
+### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopi04-github&show_icons=true&theme=radical" width="49.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gopi04-github&theme=radical" width="49.5%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi04-github&layout=compact&theme=radical" width="40%" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,angular,js,ts,html,css,python,mysql,mongodb,azure,flask,git,vscode,github" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🚀 Highlight Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopi04/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gopinath@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Gopi04-github)
+| Project | Description | Tech Used |
+|--------|-------------|-----------|
+| 🍽️ **Restaurant Management System** | End-to-end order + billing system | Java, MySQL |
+| 🛍️ **Product Management App** | CRUD operations + category filters | Java, JDBC |
+| 📊 **Teacher Evaluation ML** | ML-based prediction using student data | Python, Random Forest |
+| 🔍 **Service Finder App** | Search services near you | React |
+| 🤖 **RPA Price Bot** | Extracts price info from websites | RPA Tools, Automation |
+| 🧾 **Ration Track** | Public ration distribution system | Flask (basic), Python |
 
 ---
 
-### 🧠 Highlights
+### 📊 My GitHub Stats
 
-- 💡 Experienced with **end-to-end full stack development**
-- 🤖 Built **bots and automations** using **RPA** tools for web scraping
-- 📈 Strong base in **DSA**, **OOP**, **DBMS**, and **System Design**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopi04-github&show_icons=true&theme=tokyonight&border_radius=10" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gopi04-github&theme=tokyonight&border_radius=10" width="47%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi04-github&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
+</div>
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gopi04-github&style=flat-square&color=blue" alt="Profile views" />
+  <a href="mailto:rajagokul231@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/GopinathR](https://www.linkedin.com/in/gopinath-r-ba9932257/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Gopi04-github"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gopi04-github&style=flat-square&color=brightgreen" alt="Profile views" />
 </p>
