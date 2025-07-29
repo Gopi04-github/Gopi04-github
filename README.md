@@ -6,10 +6,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP7D1I2UU3QZyQ/giphy.gif" width="200" alt="coder" />
-</p>
-
-<p align="center">
   <b>🚀 Passionate about building intelligent, scalable systems.</b><br>
   <b>💡 Java | React | Spring | ML | RPA | Cloud</b><br>
   <b>🧠 Strong in DSA | LeetCode 100+ | Project-Driven Learner</b>
