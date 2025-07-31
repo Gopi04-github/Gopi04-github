@@ -5,7 +5,7 @@
 <p align="center">
   <b>🚀 Passionate about building intelligent, scalable systems.</b><br>
   <b>💡 Java | React | Spring | ML | RPA | Cloud</b><br>
-  <b>🧠 Strong in DSA | LeetCode 100+ | Project-Driven Learner</b>
+  <b>🧠 Learning DSA | LeetCode 100+ | Project-Driven Learner</b>
 </p>
 
 ---
@@ -13,8 +13,6 @@
 ### 👨‍💻 About Me
 - 🎓 Final-year **CSE student**
 - 💻 Skilled in **Java**, **Spring Boot**, **MongoDB**, **React**, **Angular**, and **Azure**
-- 🧠 Created ML apps like **Teacher Evaluation** using **Random Forest**
-- 🤖 Built RPA bots for **automated price scraping**
 - 📈 Solved **100+ LeetCode problems**, solid DSA & analytical mindset
 
 ---
